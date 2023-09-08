@@ -1,0 +1,15 @@
+/*style.css*/
+body {
+    background-color: grey;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: Copperplate, sans-serif;
+    background-color: darkgrey;
+}
+button{
+    background-color: darkgrey;
+    font-family: Copperplate, sans-serif;
+}
