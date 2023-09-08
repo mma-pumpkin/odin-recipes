@@ -1,0 +1,17 @@
+/*style.css*/
+
+body{
+    font-family: Copperplate, sans-serif;
+    text-align: center;
+    background-color: grey;
+    color: rgb(39, 39, 39);
+}
+h1, h3{
+    background-color: darkgrey;
+    color: white;
+    
+}
+ol{
+    text-align: left;
+
+}
